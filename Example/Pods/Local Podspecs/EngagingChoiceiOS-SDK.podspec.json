@@ -1,0 +1,22 @@
+{
+  "name": "EngagingChoiceiOS-SDK",
+  "version": "0.1.0",
+  "summary": "A short description of EngagingChoiceiOS-SDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/engagingchoice@gmail.com/EngagingChoiceiOS-SDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "engagingchoice@gmail.com": "engagingchoice@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/engagingchoice@gmail.com/EngagingChoiceiOS-SDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EngagingChoiceiOS-SDK/Classes/**/*"
+}

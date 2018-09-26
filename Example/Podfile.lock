@@ -1,0 +1,16 @@
+PODS:
+  - EngagingChoiceiOS-SDK (0.1.0)
+
+DEPENDENCIES:
+  - EngagingChoiceiOS-SDK (from `../`)
+
+EXTERNAL SOURCES:
+  EngagingChoiceiOS-SDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EngagingChoiceiOS-SDK: d8e78f5e8c3fb9e811c6d835ea095d942e9b8685
+
+PODFILE CHECKSUM: 32adcb96bef3d10945bc538feac4b24a6f9ca8cb
+
+COCOAPODS: 1.5.3

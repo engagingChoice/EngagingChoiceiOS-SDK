@@ -1,0 +1,6 @@
+framework module EngagingChoiceiOS_SDK {
+  umbrella header "EngagingChoiceiOS-SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
