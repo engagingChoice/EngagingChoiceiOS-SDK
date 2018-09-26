@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EngagingChoiceiOS-SDK_Example' do
+  pod 'EngagingChoiceiOS-SDK', :path => '../'
+
+  target 'EngagingChoiceiOS-SDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
